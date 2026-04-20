@@ -27,7 +27,7 @@ With a background in Applied Technology and software development, I bring a prob
 When I'm not working with data, I enjoy working out, playing video games, reading, and exploring new tech skills. I’m especially driven by that “aha!” moment when data reveals something powerful and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ike-icon.github.io/data_analyst_portfolio/)
+### <a href="https://ike-icon.github.io/data_analyst_portfolio/" target="_blank" >🏆 Check Out My Full Portfolio Website</a>
       
 ## 🔭 What I'm Currently Working On  
 
